@@ -1,0 +1,8 @@
+certifi==2025.7.14
+protobuf==6.31.1
+python-dateutil==2.9.0.post0
+six==1.17.0
+upstox-python-sdk @ git+https://github.com/upstox/upstox-python.git@5682a318e6c9a72b78a3004e8037f3f80ff870af
+urllib3==2.5.0
+uuid==1.30
+websocket-client==1.8.0
